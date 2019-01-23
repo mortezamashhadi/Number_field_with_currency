@@ -5,7 +5,7 @@ In the Settings section you are prompted to choose some options. The image below
 <img src="https://raw.githubusercontent.com/mortezamashhadi/Number_field_with_currency/master/setting.jpg" >
 
 <b>Currency:</b><br>
-When set to ‘Yes’, format the number  into currency.
+When set to ‘Yes’, format the number  into currency.</br>
 <b>Dot to zero:</b><br>
 Insert three digit zero by pressing the dot button at the moment.<br>
 <b>inc/dec:</b><br>
