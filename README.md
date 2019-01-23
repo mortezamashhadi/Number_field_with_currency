@@ -7,7 +7,7 @@ In the Settings section you are prompted to choose some options. The image below
 <b>Currency:</b><br>
 When set to ‘Yes’, format the number  into currency.
 <b>Dot to zero:</b><br>
-Insert three digit zero by pressing the dot button at the moment.
+Insert three digit zero by pressing the dot button at the moment.<br>
 <b>inc/dec:</b><br>
 
 ## Demo
