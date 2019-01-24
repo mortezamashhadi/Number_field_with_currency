@@ -1,6 +1,6 @@
 # Number_field_with_currency
 Oracle APEX number field plug-in with currency format
-![](https://raw.githubusercontent.com/mortezamashhadi/APEX-Captcha/Number_field_with_currency/preview.gif)
+![](https://raw.githubusercontent.com/mortezamashhadi/Number_field_with_currency/preview.gif)
 ## Settings
 In the Settings section you are prompted to choose some options. The image below shows all the available options :</br>
 <img src="https://raw.githubusercontent.com/mortezamashhadi/Number_field_with_currency/master/setting.jpg" >
