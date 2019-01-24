@@ -10,6 +10,7 @@ When set to ‘Yes’, format the number  into currency.</br>
 <b>Dot to zero:</b><br>
 Insert three digit zero by pressing the dot button at the moment.<br>
 <b>inc/dec:</b><br>
+Users can increase or decrease number by buttons
 
 ## Demo
 https://apex.oracle.com/pls/apex/f?p=15676:5
